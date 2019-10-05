@@ -2,6 +2,8 @@
 
 ## Background
 
+Help Steve parent's and future clients to understand which is the best company to invest in. 
+
 ## Objective
 
 The goals of this challenge are for you to:
